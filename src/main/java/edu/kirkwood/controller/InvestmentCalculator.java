@@ -7,7 +7,7 @@ import static edu.kirkwood.view.Messages.investmentGoodbye;
 import static edu.kirkwood.view.Messages.investmentGreet;
 
 public class InvestmentCalculator {
-
+    // Liiz RA
     // starts the method
     public static void start() {
         investmentGreet();
