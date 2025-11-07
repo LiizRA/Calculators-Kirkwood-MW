@@ -27,11 +27,11 @@ public class Messages {
         // You'll need to update the instructions for how the user interacts with the investment calculator
         System.out.println("Enter the values in format of [Amount invested (in stocks and bonds)] " +
                 ",[Stock Rate], [Bond Rate], [Annual income]).");
-        System.out.println("Example: 50000, 6, 2 ,1892 "); // This should return 22,300 in bonds and 27,700 in stocks
+        System.out.println("Example: \n50000,\n 6,\n 2 ,\n 1892 ,\n This should return 22,300 in bonds and 27,700 in stocks"); // This should return 22,300 in bonds and 27,700 in stocks
     }
 
 
     public static void investmentGoodbye() {
-        displayMessage("Thank you for using Lizbeth's Investment Calculator");
+        displayMessage("Thank you for using Liiz's Investment Calculator");
     }
 }
